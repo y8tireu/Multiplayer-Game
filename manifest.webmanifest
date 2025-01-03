@@ -1,0 +1,12 @@
+{
+  "name": "Co-op platformer",
+  "short_name": "Co-op platformer",
+  "id": "com.example.coopplatformertutorial",
+  "description": "A platformer game where 2 players work together to collect all of the coins.\n\nThis game example includes:\n-Multiplayer lobby\n-Platformer behavior\n-Smooth camera behavior\n-Rectangular movement behavior\n-Sound effects\n-Text objects\n-Timers",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
